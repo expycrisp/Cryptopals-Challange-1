@@ -198,7 +198,7 @@ else:
 
 print("-----------------------------------------")
 
-
+print("Aufgeteilt in 6 bit-Folgen")
 print(Aufteilung)
     
     
@@ -223,7 +223,8 @@ if m > 0:
     for i in range(0,m):
         tl = tl + "="
 
-
+print("-----------------------------------------")
+print("base64-Endergebnis")
 
 print(tl)
 
